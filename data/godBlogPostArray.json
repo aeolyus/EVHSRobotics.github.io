@@ -1,11 +1,16 @@
 [{
+  "id": "20150003",
+  "title": "The Third Post",
+  "subtitle": "wow the third post already?",
+  "date": "20141221"
+}, {
   "id": "0001",
   "title": "Second Post",
   "subtitle": "so cool",
-  "date": "2014-11-26"
+  "date": "20141126"
 }, {
   "id": "0000",
   "title": "First Post",
   "subtitle": "the very first post",
-  "date": "2014-10-02"
+  "date": "20141002"
 }]
